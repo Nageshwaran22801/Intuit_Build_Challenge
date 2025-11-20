@@ -87,6 +87,7 @@ public class DemoApplication {
         BlockingProducerConsumer blocking = new BlockingProducerConsumer();
         blocking.startProcessing();
 
+
         System.out.println();
 
 	}
