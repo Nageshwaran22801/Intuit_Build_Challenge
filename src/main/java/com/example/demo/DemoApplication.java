@@ -87,7 +87,6 @@ public class DemoApplication {
         BlockingProducerConsumer blocking = new BlockingProducerConsumer();
         blocking.startProcessing();
 
-        System.out.println("=== END OF Assignment 1 ===");
         System.out.println();
 
 	}
