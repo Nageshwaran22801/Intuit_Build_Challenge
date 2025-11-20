@@ -1,0 +1,23 @@
+Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales
+Enterprise,Canada,Montana,None,2665.5,5,125,333187.5,0.0,333187.5
+Enterprise,Canada,Montana,None,345.0,5,125,43125.0,0.0,43125.0
+Enterprise,France,Velo,None,1804.0,120,125,225500.0,0.0,225500.0
+Enterprise,USA,Velo,None,2821.0,120,125,352625.0,0.0,352625.0
+Enterprise,Canada,Velo,None,345.0,120,125,43125.0,0.0,43125.0
+Enterprise,Germany,Amarilla,None,4219.5,260,125,527437.5,0.0,527437.5
+Enterprise,USA,Carretera,Low,330.0,3,125,41250.0,412.5,40837.5
+Enterprise,USA,Montana,Low,663.0,5,125,82875.0,828.75,82046.25
+Enterprise,USA,Paseo,Low,727.0,10,125,90875.0,908.75,89966.25
+Enterprise,France,Paseo,Low,787.0,10,125,98375.0,983.75,97391.25
+Enterprise,Mexico,Paseo,Low,1823.0,10,125,227875.0,2278.75,225596.25
+Enterprise,Canada,Velo,Low,923.0,120,125,115375.0,1153.75,114221.25
+Enterprise,USA,Velo,Low,663.0,120,125,82875.0,828.75,82046.25
+Enterprise,USA,VTT,Low,727.0,250,125,90875.0,908.75,89966.25
+Enterprise,France,VTT,Low,787.0,250,125,98375.0,983.75,97391.25
+Enterprise,France,VTT,Low,1744.0,250,125,218000.0,2180.0,215820.0
+Enterprise,Canada,Carretera,Low,742.5,3,125,92812.5,1856.25,90956.25
+Enterprise,Mexico,Montana,Low,1660.0,5,125,207500.0,4150.0,203350.0
+Enterprise,Mexico,Paseo,Low,662.0,10,125,82750.0,1655.0,81095.0
+Enterprise,Germany,Paseo,Low,809.0,10,125,101125.0,2022.5,99102.5
+Enterprise,Mexico,Paseo,Low,2145.0,10,125,268125.0,5362.5,262762.5
+Enterprise,Canada,Paseo,Low,2729.0,10,125,341125.0,6822.5,334302.5
